@@ -1,4 +1,4 @@
-window.alert("Trabalho de Maiara grupo: Paulo Iago, Wilson Neto, Carlos Eduardo e Gustavo Felicio.")
+window.alert("Trabalho de Maiara grupo: Paulo Iago, Wilson Neto, Carlos Eduardo, Eduardo Araujo e Gustavo Felicio.")
 console.log("Codigo feito por Iago ヅ")
 const numbers = document.querySelectorAll('.numbers');
 const result = document.querySelector('.result span');
