@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/justtlog/iOS-Style-Calculator) para ver o proje
 
 A parte mais desafiadora foi limitar o número de características da calculadora para evitar erros no layout. Além disso, encontrei dificuldades com cálculos lógicos, como a subtração e a soma combinadas com porcentagens, o que resultou em erros nos resultados finais.
 
-##Testes Realizados
+## Testes Realizados
 
 Realizei testes abrangentes com todos os cálculos possíveis que um usuário casual poderia realizar e obtive sucesso em todos eles. Todos os cálculos foram corretos e funcionaram conforme esperado.
 (Exemplos:"2+2+2+4=10; 15-10-2=3" e etc...)
