@@ -22,4 +22,4 @@ Realizei testes abrangentes com todos os cálculos possíveis que um usuário ca
 
 ## Nome Dos Participantes Do Grupo
 
-- [Wilson Neto, Paulo Iago, Carlos Eduardo, Eduardo Araujo e Gustavo Felicio.]
+- Wilson Neto, Paulo Iago, Carlos Eduardo, Eduardo Araujo e Gustavo Felicio.
